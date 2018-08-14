@@ -1,2 +1,69 @@
-# duolingo
-An overview of Duolingo's Irish curriculum 
+# Duolingo
+> An overview of Duolingo's Irish curriculum 
+
+## Table of Contents
+- Basic 1
+- Basic 2
+- Phrases
+- Food
+- Animals
+- Plurals
+- Eclipsis
+- Lenition
+- Clothing
+- Possessive
+- Verbs: Prepositions 1
+- Colors
+- Questions
+- Conjunctions
+- Prepositions 1
+- Ireland 1
+- Dates/Time
+- Family
+- Jobs
+- Adjectives
+- Verbs: Prepositions 2
+- Prepositions 2
+- Genitive
+- Negatives
+- Comparison
+- Adverbs
+- Places
+- Objects
+- Prepositions 3
+- People
+- Passive
+- Language
+- Travel
+- Numbers
+- Feel & trait
+- Verbs: Prepositions 3
+- Education
+- Verbs: Past tense 1
+- Measure
+- The world
+- Character
+- Verbs: Past tense 2
+- Abstract objects 1
+- Weather
+- Computers/Tech
+- Nature
+- Adjectives
+- Verbal Noun
+- Ireland 2
+- Abstract objects 2
+- Pronoun reference
+- Directions
+- Sport
+- Arts
+- Medical
+- Verb future 1
+- Politics
+- Verb future 2
+- Science
+- Imperative
+- Verb: imperfect
+- Spiritual
+- Verb: conditional
+- Business
+
