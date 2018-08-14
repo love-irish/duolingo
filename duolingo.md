@@ -1,5 +1,5 @@
 # Duolingo
-> An overview of Duolingo's Irish curriculum 
+> 🗺🦉🗣  A map to navigate Duolingo's Irish curriculum
 
 ## Table of Contents
 - Basic 1
