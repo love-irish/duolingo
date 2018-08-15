@@ -68,7 +68,8 @@
 
 Word            | Definition          | Example
 ----------------|---------------------|-------------
-`fear`          | Man                 | Is fear mé
+`fear`          | Man                 | Is fear mé.
+`bean`          | Woman               | Is bean mé.
 
 ## Basic 2
 ## Phrases
