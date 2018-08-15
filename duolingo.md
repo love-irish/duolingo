@@ -64,6 +64,10 @@
 - [Business](#business)
 
 ## Basic 1
+### Vocabulary
+| Word | Definition | Example |
+|--|--|--|
+| `fear` | Man | Is fear mé |
 ## Basic 2
 ## Phrases
 ## Food
